@@ -1,55 +1,49 @@
 ﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
+
+<div align="center">
+
 # CSS Theme Playground
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-
-ðŸš€ Real-time design token and theme visualization tool.
-
-## ðŸ” Why this project exists
+**Visualizing Design Tokens in Real-Time.**
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## âœ¨ Features
+</div>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-- ðŸš€ Production-ready architecture
-- ðŸŽ¨ Premium UI/UX design system
-- â™¿ WCAG AA Accessible
-- ðŸ“± Fully Responsive
-- âš¡ Optimized Performance
+## ðŸ“– Overview
+A developer tool for creating, testing, and exporting CSS Variable-based design systems. It provides immediate visual feedback on typography, color palettes, and spacing scales.
 
-## ðŸ§  Architecture
+## âœ¨ Key Features
+- **Real-time Preview:** See changes instantly.
+- **Token Export:** Generate CSS/SCSS/JSON.
+- **Contrast Checker:** Auto-calculate accessibility scores.
+- **Preset Library:** Standard Material/Human interface themes.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-Built with clean separation of concerns and modern design patterns.
+## ðŸ› ï¸ Technical Stack
+**React, CSS Variables, Color.js**
 
-## ðŸš€ Live Demo
+## ðŸš€ Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-[Deployment Link Placeholder]
+### Prerequisites
+- Node.js 18+
+- npm or yarn
 
-## ðŸ“¦ Installation
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-```bash
+### Installation
+`ash
+git clone https://github.com/ashraf-morningstar-labs/css-theme-playground.git
+cd css-theme-playground
 npm install
 npm run dev
-```
+`
 
-## ðŸ›  Tech Stack
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-CSS Variables â€¢ Design Systems
-
-## ðŸ“ˆ SEO Keywords
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-css variables, design tokens, theme generator
+## ðŸ¤ Contribution
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ðŸ“„ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/css-theme-playground)
-MIT
-
-
+---
+<div align="center">
+  <b>Built with â¤ï¸ by <a href="https://github.com/AshrafMorningstar">Ashraf Morningstar</a></b>
+</div>
